@@ -1,0 +1,25 @@
+{
+  "name": "바쿠고와 일본어",
+  "short_name": "바쿠고",
+  "description": "바쿠고와 매일 일본어로 대화하는 회화 연습 앱",
+  "start_url": "./?source=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ecebe6",
+  "theme_color": "#e8641c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
