@@ -1,6 +1,6 @@
 {
-  "name": "바쿠고와 일본어",
-  "short_name": "바쿠고",
+  "name": "캇짱톡",
+  "short_name": "캇짱톡",
   "description": "바쿠고와 매일 일본어로 대화하는 회화 연습 앱",
   "start_url": "./?source=app",
   "scope": "./",
