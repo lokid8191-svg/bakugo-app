@@ -27,9 +27,3 @@ claude.ai에 있는 바쿠고 앱을 폰의 앱 서랍에서 바로 열기 위�
 - 그 브라우저에서 claude.ai에 로그인되어 있어야 해요.
 - 화면 위에 작은 주소 표시줄이 보일 수 있어요.
 - 바쿠고 앱 주소가 바뀌면 `index.html`의 `APP_URL` 한 줄만 고치면 돼요.
-
-## 데쿠톡
-
-같은 저장소의 `deku/` 폴더는 데쿠톡 실행용 앱이에요.
-설치 주소: `https://lokid8191-svg.github.io/bakugo-app/deku/`
-아이콘을 바꾸려면 `deku/icon.png`를 덮어쓰면 돼요.
