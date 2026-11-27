@@ -1,5 +1,5 @@
 // 설치용 최소 서비스 워커: 실행용 페이지만 캐시해 두고, 나머지는 그대로 네트워크로 보냅니다.
-const CACHE = 'bakugo-launcher-v5';
+const CACHE = 'bakugo-launcher-v6';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.png'];
 
 self.addEventListener('install', (e) => {
